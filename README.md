@@ -1,1 +1,2 @@
-# deep_learning_with_python
+# Chapter 5 Key Idea
+    convolution layers learn local patterns (pg.111)
