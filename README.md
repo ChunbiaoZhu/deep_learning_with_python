@@ -16,7 +16,17 @@
     efficiently learn increasingly complex and abstract visual concepts (since the visual world
     is fundamentally spatially hierarchical ).
     
-    a "response map" of the filter over the input, indicating the response of that filter
+    A "response map" of the filter over the input, indicating the response of that filter
     pattern at different locations in the input (figure 5.3). That is what the term "feature map"
     really means: every dimension in depth axis is a feature (or filter), and the 2D tensor
     output[:, :, n] is the 2D spatial "map" of the response of this filter over the input.
+
+    A deep neural network effectively acts as an information distillation pipeline, with raw data
+    going in (in our case, RBG pictures), and getting repeatedly transformed so that
+    irrelevant information gets filtered out (e.g. the specific visual appearance of the image)
+    while useful information get magnified and refined (e.g. the class of the image). (pg.153)
+
+# Chapter 6 Key Idea
+    Deep learning for natural language processing is simply pattern
+    recognition applied to words, sentences, and paragraphs, in much the same way that
+    computer vision is simply pattern recognition applied to pixels.
