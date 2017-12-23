@@ -38,3 +38,39 @@
     
     AI will be used by humans as a tool to augment their own
     capabilities: more augmented intelligence than artificial intelligence.
+  
+# Summary  
+    anything that requires reasoning—like
+    programming, or applying the scientific method—long-term planning, and
+    algorithmic-like data manipulation, is out of reach for deep learning models, no matter
+    how much data you throw at them. Even learning a sorting algorithm with a deep neural
+    network is tremendously difficult.
+    
+    All it can do is map
+    one data manifold X into another manifold Y, assuming the existence of a learnable
+    continuous transform from X to Y. So even though a deep learning model can be
+    interpreted as a kind of program, inversely most programs cannot be expressed as deep
+    learning models—for most tasks, either there exists no corresponding deep neural
+    network that solves the task, or even if there exists one, it may not be learnable, i.e. the
+    corresponding geometric transform may be far too complex, or there may not be
+    appropriate data available to learn it.
+    
+    In short, deep learning models do not have any understanding of their input, at least
+    not in any human sense. Our own understanding of images, sounds, and language, is
+    grounded in our sensorimotor experience as humans. Machine learning models have no
+    access to such experiences and thus cannot "understand" their inputs in any
+    human-relatable way. By annotating large numbers of training examples to feed into our
+    models, we get them to learn a geometric transform that maps data to human concepts on
+    this specific set of examples, but this mapping is just a simplistic sketch of the original
+    model in our minds, the one developed from our experience as embodied agents—it is
+    like a dim image in a mirror.
+    
+    In short, deep learning models do not have any understanding of their input, at least
+    not in any human sense. Our own understanding of images, sounds, and language, is
+    grounded in our sensorimotor experience as humans. Machine learning models have no
+    access to such experiences and thus cannot "understand" their inputs in any
+    human-relatable way. By annotating large numbers of training examples to feed into our
+    models, we get them to learn a geometric transform that maps data to human concepts on
+    this specific set of examples, but this mapping is just a simplistic sketch of the original
+    model in our minds, the one developed from our experience as embodied agents—it is
+    like a dim image in a mirror.
