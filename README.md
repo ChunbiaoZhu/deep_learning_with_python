@@ -31,7 +31,7 @@
     recognition applied to words, sentences, and paragraphs, in much the same way that
     computer vision is simply pattern recognition applied to pixels.
 
-# Chapter 6 Key Idea
+# Chapter 8 Key Idea
     Artificial intelligence is
     not about replacing our own intelligence with something else, it is about bringing into our
     lives and work more intelligence, intelligence of a different kind.
